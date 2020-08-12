@@ -28,3 +28,6 @@ API definition should be done with Swagger 3, I can have it auto generated or I 
     * createHierarchy [hierarchyName, & objectTypeWithLevel]
     * objectTypeWithLevel: is a structure with ObjectType name and level in the hierarchy
     * setPropertyOnHierarchy [propertyKey, value, hierarchyName, objectType]
+
+### Follow development:
+Check https://reactiveclojure.blogspot.com/2020/08/first-project-real-case-situation.html for posts about the develpment of this project
